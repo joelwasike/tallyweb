@@ -23171,7 +23171,7 @@ s.FK()},
 HD:function HD(a){this.a=a},
 v1:function v1(a){this.a=a},
 A2:function A2(a,b){var _=this
-_.d="KES"
+_.d="USD"
 _.e=a
 _.f=b
 _.w=_.r=null
@@ -76048,7 +76048,7 @@ A.HD.prototype={
 K(a){var s=null
 return new A.wH(new A.v1(s),"Link Generator",A.rn(s,s,B.iL,s),s)}}
 A.v1.prototype={
-ag(){return new A.A2(new A.Kq(B.x9,$.an()),A.b(["KES","USD"],t.s))}}
+ag(){return new A.A2(new A.Kq(B.x9,$.an()),A.b(["USD"],t.s))}}
 A.A2.prototype={
 an(){var s,r
 this.aK()
